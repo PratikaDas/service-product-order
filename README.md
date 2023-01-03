@@ -16,7 +16,7 @@ An H2 instance has been specified to provide Persistence, as per `resources/appl
 
 Swagger :  http://localhost:8080/productAndOrderService/swagger-ui.html 
 
-Schema :  http://localhost:8080/productAndOrderManager/h2-console. 
+Schema :  http://localhost:8080/productAndOrderService/h2-console. 
 The credentials are set in the `resources/application.properties` file.
 
 
